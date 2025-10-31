@@ -5,7 +5,7 @@
 | LG | LF26C8210S | $2,299.00 | 29.75 | 25.5 | 15.7  | 7 | 2.8 | 2 | 6 | [ABT](https://www.abt.com/LG-25.5-Cu.-Ft.-French-Door-Refrigerator-Counter-Depth-with-Full-Convert-Drawer-36-Inch-Wide-in-Stainless-Steel-LF26C8210S/p/211254.html?_br_psugg_q=lg+lf26c8210s) |
 | LG | LRFLC2706S | $1,799.00 | 31.63 | 26.5 | 17.8  | 8.7 | 5 | 3 | 8 | [ABT](https://www.abt.com/LG-27-Cu.-Ft.-3-Door-French-Door-Refrigerator-36-Inch-Wide-in-Stainless-Steel-LRFLC2706S/p/181863.html?_br_psugg_q=lg+lrflc2706s) |
 | LG | LRRXC2606S | $1,999.00 | 31.63 | 25.5 | 16.9  | 8.6 | 5 | 3 | 8 | [ABT](https://www.abt.com/LG-26-Cu.-Ft.-French-Door-Refrigerator-36-Inch-Wide-ADA-in-PrintProof-Stainless-Steel-LRRXC2606S/p/210700.html?_br_psugg_q=lrrxc2606ss) |
-| LG | LF24Z6330S | ???? | crate shit* | 23.7 | 15.8  | 7.9 | ? | ? | ? | [LG](https://www.lg.com/us/refrigerators/lg-lf24z6330s-french-3-door-refrigerator) |
+| LG | LF24Z6330S | $2,199.00 | 29.88 | 23.7 | 15.8  | 7.9 | ? | ? | ? | [Grand](https://www.grandappliance.com/product/lg-36-24-cu-ft-printproof-stainless-steel-counter-depth-french-door-refrigerator-lf24z6330s-1830704) |
 
 notes
-- LG site doesn't give dims of unit, they give dimensions of the crate that the unit is in 😠 
+- don't go to `lg.com`. Their site doesn't give dims of unit, it give dimensions of the crate that the unit is in 😠
